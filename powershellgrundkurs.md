@@ -22,7 +22,7 @@ Trainer Tom Wechsler
 Die Schulung findet an 3 Tagen statt:
 Zeit: 09.00 - 16.00 Uhr
 
-Die Kosten pro Teilnehmer betragen 600€ + Mwst. 
+Die Kosten pro Teilnehmer betragen 800€ + Mwst. 
 
 Die Schulung findet Online per TEAMS statt.
 
@@ -32,3 +32,6 @@ Voraussetzungen sind:
 
 Nach der Reservierungsbestätigung ist eine Stornierung nicht mehr möglich. Bei nicht Teilnahme
 werden die die Gebühren trotzdem berechnet.
+
+>[zur Anmeldung 😎](https://github.com/glshnu/schulungen/blob/main/termineanmeldungen.md)
+
