@@ -1,8 +1,5 @@
 ## Powershell Grundkurs
 
-Die Schulung wird ONLINE mit TEAMS durchgeführt
-
-
 - Einführung PowerShell
 - Variablen, Gültigkeit, Environment Variablen
 - Schleifen
@@ -27,7 +24,7 @@ Zeit: 09.00 - 16.00 Uhr
 
 Die Kosten pro Teilnehmer betragen 600€ + Mwst. 
 
-Die Schulung findet Online per TEAMS statt-
+Die Schulung findet Online per TEAMS statt.
 
 Voraussetzungen sind:
 - TEAMS Zugang mit Webcam
