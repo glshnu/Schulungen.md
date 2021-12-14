@@ -13,4 +13,4 @@ wir führen mit Tom Wechsler regelmässig Schulungen durch:
 
 [Microsoft Endpoint Manager (Intune)](https://github.com/glshnu/schulungen/blob/main/microsoftendpointmanager.md)
 ***  
-**[Termine und Anmeldungen](https://github.com/glshnu/schulungen/blob/main/termineanmeldungen.md)**
+**⚡[Termine und Anmeldungen](https://github.com/glshnu/schulungen/blob/main/termineanmeldungen.md)**
