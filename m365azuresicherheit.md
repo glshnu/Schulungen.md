@@ -24,3 +24,5 @@ Voraussetzungen sind:
 
 Nach der Reservierungsbestätigung ist eine Stornierung nicht mehr möglich. Bei nicht Teilnahme
 werden die die Gebühren trotzdem berechnet.
+
+>[zur Anmeldung 😎](https://github.com/glshnu/schulungen/blob/main/termineanmeldungen.md)
