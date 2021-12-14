@@ -1,13 +1,15 @@
 ## Schulungen 
 wir führen mit Tom Wechsler gegelmässig Schulungen durch:  
   
-Microsoft 365 Admin Schulung  
+[Microsoft 365 Admin Schulung](https://github.com/glshnu/schulungen/blob/main/microsoft365admin.md)
   
-Azure AZ-104 Schulung  
+[Azure AZ-104 Schulung](https://github.com/glshnu/schulungen/blob/main/azure-az104.md)
   
-Powershell für Anfänger  
+[Powershell für Anfänger](https://github.com/glshnu/schulungen/blob/main/powershellgrundkurs.md)
   
-Azure Virtual Desktop  
+[Azure Virtual Desktop](https://github.com/glshnu/schulungen/blob/main/azurevirtualdesktop.md)
   
-Microsoft 365 / Azure Sicherheit  
+[Microsoft 365 / Azure Sicherheit](https://github.com/glshnu/schulungen/blob/main/m365azuresicherheit.md)
+
+[Microsoft Endpoint Manager (Intune)](https://github.com/glshnu/schulungen/blob/main/microsoftendpointmanager.md)
   
