@@ -1,5 +1,5 @@
 ## Schulungen 
-wir führen mit Tom Wechsler gegelmässig Schulungen durch:  
+wir führen mit Tom Wechsler regelmässig Schulungen durch:  
   
 [Microsoft 365 Admin Schulung](https://github.com/glshnu/schulungen/blob/main/microsoft365admin.md)
   
@@ -13,3 +13,4 @@ wir führen mit Tom Wechsler gegelmässig Schulungen durch:
 
 [Microsoft Endpoint Manager (Intune)](https://github.com/glshnu/schulungen/blob/main/microsoftendpointmanager.md)
   
+**[Termine und Anmeldungen]()**
