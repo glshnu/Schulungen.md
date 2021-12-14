@@ -26,7 +26,9 @@ Beschreiben Sie Lösungen für Informationsschutz und Governance
 ## 3. Tag
 Einführung in Applicationen (TEAMS, Sharepoint, Onedrive, PLanner, Forms, powerautomate)
 
-Trainer: Tom Wechsler 
+
+## Organisation
+Trainer Tom Wechsler 
 
 Die Schulung findet an drei Tagen statt:
 Zeit: 09.00 - 16.00 Uhr
