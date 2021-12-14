@@ -11,10 +11,10 @@ Die Schulung wird auf Basis der Microsoft AZURE AZ-140 (Azure Virtual Desktop)
 ## Organisation
 Trainer Tom Wechsler 
 
-Die Schulung findet an drei Tagen statt:
+Die Schulung findet an 4 Tagen statt:
 Zeit: 09.00 - 16.00 Uhr
 
-Die Kosten pro Teilnehmer betragen 600€ + Mwst. 
+Die Kosten pro Teilnehmer betragen 800€ + Mwst. 
 
 Die Schulung findet Online per TEAMS statt-
 
