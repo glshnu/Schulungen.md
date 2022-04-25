@@ -1,11 +1,5 @@
 ## Termine und Anmeldungen
 
-> Microsoft 365 / Azure Sicherheit - 4 Tage  
-> Termin 4., 5., 7., 8. April 2022  
-
-> Azure AZ-104 - 4 Tage  
-> Termin 2., 3., 5., 6. Mai 2022  
-
 > Microsoft Endpoint Manager (Intune) - 3 Tage  
 > Termin 11., 13., 15. Juli 2022  
 
