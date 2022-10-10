@@ -28,7 +28,7 @@ Trainer Tom Wechsler
 Die Schulung findet an drei Tagen statt:
 Zeit: 09.00 - 16.00 Uhr
 
-Die Kosten pro Teilnehmer betragen 600€ + Mwst. 
+Die Kosten pro Teilnehmer betragen 800€ + Mwst. 
 
 Die Schulung findet Online per TEAMS statt-
 
